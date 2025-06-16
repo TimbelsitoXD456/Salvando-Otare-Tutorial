@@ -1,0 +1,36 @@
+body {
+  background: #152030;
+  color: #fff;
+  text-align: center;
+  font-family: 'Press Start 2P', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-top: 16px;
+  color: #0FF;
+  text-shadow: 2px 2px 8px #000;
+  font-family: 'Press Start 2P', Arial, sans-serif;
+  font-size: 2rem;
+}
+
+canvas {
+  display: block;
+  margin: 30px auto 0 auto;
+  border: 5px solid #0FF;
+  border-radius: 16px;
+  background: #222;
+  box-shadow: 0 0 32px #00ffff88;
+  transition: box-shadow 0.2s;
+}
+
+.creditos {
+  color: #0FF;
+  font-size: 1rem;
+  margin-top: 20px;
+  margin-bottom: 24px;
+  opacity: 0.7;
+  letter-spacing: 1px;
+  font-family: 'Press Start 2P', Arial, sans-serif;
+}
