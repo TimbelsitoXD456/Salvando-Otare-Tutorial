@@ -1,1 +1,0 @@
-# Salvando-Otare-Tutorial
